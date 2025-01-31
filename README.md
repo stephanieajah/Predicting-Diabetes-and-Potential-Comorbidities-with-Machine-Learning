@@ -1,0 +1,2 @@
+# Predicting-Diabetes-and-Potential-Comorbidities-with-Machine-Learning
+This machine learning model classifies individuals as diabetic, non-diabetic, or prediabetic while identifying potential comorbidities. It leverages health data to provide early insights, aiding prevention and management. Techniques include data preprocessing, feature selection, and classification algorithms to enhance prediction accuracy.
